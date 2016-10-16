@@ -1,0 +1,6 @@
+Play
+	(F)eed
+	(T)rain
+	(C)lean
+	(A)bout
+	(Q)uit

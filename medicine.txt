@@ -1,0 +1,4 @@
+
+1    Apple pie    18   STR + 3 
+2    French fries 77   HP + 50
+3    Steak        135  All + 50 

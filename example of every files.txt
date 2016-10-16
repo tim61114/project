@@ -1,0 +1,10 @@
+CHICKEN_
+HP 100
+STR 20
+DEX 20
+MONEY 20
+
+MED_PLUS
+$ hp str dex
+-20 10 10 10
+
